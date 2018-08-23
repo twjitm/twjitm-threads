@@ -1,0 +1,1 @@
+package com.twjitm.threads.common.logs;import org.slf4j.Logger;/** * @author EGLS0807 - [Created on 2018-08-23 17:43] * @company http://www.g2us.com/ * @jdk java version "1.8.0_77" */public class LoggerFactory {public final static Logger logger= org.slf4j.LoggerFactory.getLogger("twjitm.threads");}
